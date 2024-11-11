@@ -1,2 +1,2 @@
 # JSONer
-Frontend application which show a json file.
+Frontend application which visualitation a json file.
